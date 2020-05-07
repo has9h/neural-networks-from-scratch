@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Shortcuts and links
+*.lnk
+
+# Other sample and test files
+test.py
+4-softmax.py
+5-cross-entropy.py
