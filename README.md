@@ -1,7 +1,9 @@
 # Neural Networks from Scratch
 
-Not Vanilla Python, but no PyTorch, no Tensorflow
+No PyTorch, no Tensorflow.
 
-**TODO**
+Background readings can be found within the 
+
+## TODO
 
 - [ ] Look into `p000-linear-equations.py`

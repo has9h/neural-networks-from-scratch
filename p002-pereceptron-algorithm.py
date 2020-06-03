@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 # Setting the random seed
 np.random.seed(42)
 
-X = np.genfromtxt('data.csv', delimiter=',', usecols=(0, 1))
-Y = np.genfromtxt('data.csv', delimiter=',', usecols=(2))
+X = np.genfromtxt('./../data/data.csv', delimiter=',', usecols=(0, 1))
+Y = np.genfromtxt('./../data/data.csv', delimiter=',', usecols=(2))
 
 
 def stepFunction(t):
