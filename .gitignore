@@ -10,6 +10,6 @@ __pycache__/
 *.lnk
 
 # Other sample and test files
-test.py
+test.ipynb
 4-softmax.py
 5-cross-entropy.py
